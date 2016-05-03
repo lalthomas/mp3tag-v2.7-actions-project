@@ -1,0 +1,7 @@
+﻿[#0]
+T=4
+F=_TAG
+1=(?<\u003d\\w\\s)(a|as|at|an|about|above|across|after|against|along|alongside|although|among|and|around|as|at|because|before|behind|below|beneath|beside|between|beyond|but|by|de|despite|down|during|even|except|excepting|for|from|if|in|inside|into|like|near|next|nor|of|off|on|onto|or|out|outside|over|past|regarding|round|since|so|than|the|through|throughout|till|to|toward|under|underneath|unlike|until|up|upon|von|when|while|with|within|without|yet)(?\u003d\\s\\w)
+2=$lower($0)
+3=0
+

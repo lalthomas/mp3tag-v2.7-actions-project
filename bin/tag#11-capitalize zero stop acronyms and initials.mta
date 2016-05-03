@@ -1,0 +1,7 @@
+﻿[#0]
+T=4
+F=_TAG
+1=(?:(?<\u003d[^\\w\\']|\\_)|(?<\u003d^))(ac|ad|afi|aol|asap|atm|bbc|bc|bce|blt|btw|cc|cia|crc|cst|csv|dc|dfa|dj|dmv|doa|dst|eod|ep|est|et|faq|fbi|fm|gi|glc|gmo|imo|imho|iq|ira|jc|irs|krs|la|lp|mc|mst|mtd|nasa|oj|pc|pi|pj|pm|ps|qed|rv|sos|ssr|usa|ussr|tba|tbd|teotwawki|tlc|tv|ufo)(?\u003d[^\\w\\']|\\_|$)(\\.*)
+2=$upper($1)
+3=0
+

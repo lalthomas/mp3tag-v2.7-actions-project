@@ -1,0 +1,7 @@
+﻿[#0]
+T=4
+F=_TAG
+1=(?<\u003d[^\\w\\']|\\_)(alt|ave|capt|cent|corp|div|ed|eg|etc|fag|feat|gen|hr|ie|inc|inst|lb|ltd|min|mt|op|pl|pop|pseud|pt|pub|rev|sec|ser|sgt|st|univ|vs|vol)(?\u003d[^\\w\\']|\\_)(\\.*)
+2=$lower($1).
+3=0
+
