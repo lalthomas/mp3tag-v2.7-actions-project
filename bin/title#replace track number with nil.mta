@@ -5,3 +5,10 @@ F=TITLE
 2=
 3=0
 
+[#1]
+T=4
+F=TITLE
+1=Track \\d+
+2=
+3=0
+
